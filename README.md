@@ -10,7 +10,7 @@ Funções Como: ForEach, Map, Reduce, Filter, um site de Hanbúrguer para deskto
 <br/>
 <br/>
 <br/>
-<img src="img/Papel de parede  ilustrado com flores e frase motivacional minimalista rosa e branco (1).png"/>
+<img src="https://github.com/WestonBarros/PROJETO-HANB-RGUER/blob/main/img/Anburguer.png?raw=true"/>
 <br/>
 <br/>
 <br/>
